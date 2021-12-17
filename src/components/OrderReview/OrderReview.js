@@ -4,7 +4,6 @@ import useCart from '../../hooks/useCart';
 import Cart from '../Cart/Cart';
 import ReviewItem from '../ReviewItem/ReviewItem';
 import { clearTheCart, removeFromDb } from '../../utilities/fakedb';
-import { Link } from 'react-router-dom';
 import { useHistory } from 'react-router-dom';
 
 
